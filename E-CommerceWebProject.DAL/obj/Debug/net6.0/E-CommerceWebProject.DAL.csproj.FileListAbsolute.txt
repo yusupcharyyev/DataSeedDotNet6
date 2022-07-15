@@ -1,0 +1,17 @@
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.DAL.deps.json
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.DAL.runtimeconfig.json
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.DAL.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.DAL.pdb
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.Models.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\bin\Debug\net6.0\E-CommerceWebProject.Models.pdb
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.csproj.AssemblyReference.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.AssemblyInfoInputs.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.AssemblyInfo.cs
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.csproj.CopyComplete
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\refint\E-CommerceWebProject.DAL.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.pdb
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\E-CommerceWebProject.DAL.genruntimeconfig.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.DAL\obj\Debug\net6.0\ref\E-CommerceWebProject.DAL.dll
