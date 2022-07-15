@@ -1,0 +1,12 @@
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\bin\Debug\net6.0\E-CommerceWebProject.Models.deps.json
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\bin\Debug\net6.0\E-CommerceWebProject.Models.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\bin\Debug\net6.0\E-CommerceWebProject.Models.pdb
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.csproj.AssemblyReference.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.AssemblyInfoInputs.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.AssemblyInfo.cs
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\refint\E-CommerceWebProject.Models.dll
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\E-CommerceWebProject.Models.pdb
+C:\Users\yuska\Desktop\E-CommerceWebProject\E-CommerceWebProject.Models\obj\Debug\net6.0\ref\E-CommerceWebProject.Models.dll
