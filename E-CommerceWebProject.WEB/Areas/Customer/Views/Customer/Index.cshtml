@@ -1,0 +1,41 @@
+﻿@model List<GetAllProductDTO>
+@{
+    string role = "";
+    foreach (var item in Model)
+    {
+        role = item.UserRole;
+    }
+}
+<div class="alert alert-success">User Role :  @role</div>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <div class="image-container">
+                    <div class="first">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="discount">-25%</span>
+                            <span class="wishlist"><i class="fa fa-heart-o"></i></span>
+                        </div>
+                    </div>
+                    @foreach (var images in item.ProductColors)
+                    {
+                        foreach (var img in images.ProductImages)
+                        {
+                            <img src="@img.Image" class="img-fluid rounded thumbnail-image">
+                        }
+                    }
+                </div>
+                <div class="product-detail-container p-2">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h5 class="dress-name">@item.Name</h5>
+                        <div class="d-flex flex-column mb-2">
+                            <span class="new-price">@item.Price</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
